@@ -1,2 +1,2 @@
-Flask
-Flask-PyMongo
+Flask==2.2.5
+Flask-PyMongo==2.3.0
